@@ -2,17 +2,18 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0f172a,100:00f7ff&height=220&section=header&text=SYSTEM%20ONLINE&fontSize=42&fontColor=00f7ff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20digital%20interface&descSize=18&descAlignY=55&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0f172a,100:00f7ff&height=220&section=header&text=FELIPE%20GABRIEL%20VIEIRA%20MEIRA&fontSize=34&fontColor=00f7ff&animation=fadeIn&fontAlignY=35&desc=FULL%20STACK%20DEVELOPER%20%7C%20COMPUTER%20SCIENCE&descSize=16&descAlignY=55&descColor=ffffff" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Initializing+developer+system...;Loading+JavaScript+modules...;React+interface+online...;Node.js+backend+connected...;Git+%26+GitHub+protocols+ready...;Welcome+to+my+GitHub+%F0%9F%96%A5%EF%B8%8F" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Initializing+Felipe's+developer+system...;Loading+JavaScript+modules...;React+interface+online...;Node.js+backend+connected...;Git+%26+GitHub+protocols+ready...;Welcome+to+my+digital+interface+%F0%9F%96%A5%EF%B8%8F" alt="Typing Animation"/>
 
 <br><br>
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00f7ff?style=for-the-badge&logo=statuspage&logoColor=black"/>
 <img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-8b5cf6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LOCATION-DIGITAL%20WORLD-111827?style=for-the-badge&logo=googlemaps&logoColor=00f7ff"/>
+<img src="https://img.shields.io/badge/AGE-20-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UNI--FACEF-COMPUTER%20SCIENCE-111827?style=for-the-badge"/>
 
 </div>
 
@@ -27,30 +28,35 @@
 ### 👨‍💻 Sobre Mim
 
 ```bash
-$ ./initialize-developer.sh
+$ ./initialize-felipe.sh
 
 [✓] Identity loaded
+[✓] Developer profile detected
+[✓] Computer Science student detected
 [✓] JavaScript environment detected
 [✓] React interface initialized
 [✓] Node.js backend connected
 [✓] Git repository synchronized
 
+> Welcome, Felipe Gabriel Vieira Meira.
 > Building digital experiences...
 > Learning something new every day...
 > Turning ideas into code.
 ```
 
-Sou um desenvolvedor apaixonado por tecnologia, interfaces modernas e desenvolvimento web.
+Olá! Me chamo **Felipe Gabriel Vieira Meira**, tenho **20 anos** e atualmente curso **Bacharelado em Ciências da Computação no Uni-FACEF**.
 
-Atualmente estou focado principalmente em **HTML, CSS, JavaScript, React e Node.js**, utilizando Git e GitHub para organizar, versionar e evoluir meus projetos.
+💻 Atualmente estou focado em **desenvolvimento web**, estudando e construindo projetos utilizando **HTML, CSS, JavaScript, React e Node.js**.
 
-Meu objetivo é construir aplicações que sejam não apenas funcionais, mas também **rápidas, intuitivas, bonitas e memoráveis**.
+Também utilizo **Git, GitHub e VS Code** diariamente no meu processo de desenvolvimento.
+
+🚀 Meu objetivo é evoluir constantemente como desenvolvedor, criar projetos cada vez mais completos e transformar ideias em aplicações modernas, funcionais e com excelentes experiências para os usuários.
 
 </td>
 
 <td width="45%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true&title_color=00f7ff&icon_color=8b5cf6&text_color=c9d1d9&bg_color=00000000" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=felipevieira07&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=00f7ff&icon_color=8b5cf6&text_color=c9d1d9&bg_color=00000000" width="100%"/>
 
 </td>
 </tr>
@@ -90,8 +96,9 @@ Meu objetivo é construir aplicações que sejam não apenas funcionais, mas tam
 |   ⚛️ **React**   | Interfaces modernas e componentes      |
 |  🟢 **Node.js**  | Aplicações e APIs backend              |
 |    🔀 **Git**    | Controle de versão                     |
-|   🐙 **GitHub**  | Projetos, colaboração e deploy         |
+|   🐙 **GitHub**  | Projetos, colaboração e versionamento  |
 |  💻 **VS Code**  | Ambiente principal de desenvolvimento  |
+|    📦 **NPM**    | Gerenciamento de dependências          |
 
 </div>
 
@@ -101,22 +108,22 @@ Meu objetivo é construir aplicações que sejam não apenas funcionais, mas tam
 
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO/PROJETO-01">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJETO-01&theme=transparent&hide_border=true&title_color=00f7ff&icon_color=8b5cf6&text_color=c9d1d9"/>
+<a href="https://github.com/felipevieira07/PROJETO-01">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=felipevieira07&repo=PROJETO-01&theme=transparent&hide_border=true&title_color=00f7ff&icon_color=8b5cf6&text_color=c9d1d9"/>
 </a>
 
-<a href="https://github.com/SEU_USUARIO/PROJETO-02">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJETO-02&theme=transparent&hide_border=true&title_color=00f7ff&icon_color=8b5cf6&text_color=c9d1d9"/>
+<a href="https://github.com/felipevieira07/PROJETO-02">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=felipevieira07&repo=PROJETO-02&theme=transparent&hide_border=true&title_color=00f7ff&icon_color=8b5cf6&text_color=c9d1d9"/>
 </a>
 
 <br>
 
-<a href="https://github.com/SEU_USUARIO/PROJETO-03">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJETO-03&theme=transparent&hide_border=true&title_color=00f7ff&icon_color=8b5cf6&text_color=c9d1d9"/>
+<a href="https://github.com/felipevieira07/PROJETO-03">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=felipevieira07&repo=PROJETO-03&theme=transparent&hide_border=true&title_color=00f7ff&icon_color=8b5cf6&text_color=c9d1d9"/>
 </a>
 
-<a href="https://github.com/SEU_USUARIO/PROJETO-04">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJETO-04&theme=transparent&hide_border=true&title_color=00f7ff&icon_color=8b5cf6&text_color=c9d1d9"/>
+<a href="https://github.com/felipevieira07/PROJETO-04">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=felipevieira07&repo=PROJETO-04&theme=transparent&hide_border=true&title_color=00f7ff&icon_color=8b5cf6&text_color=c9d1d9"/>
 </a>
 
 </div>
@@ -130,20 +137,23 @@ Meu objetivo é construir aplicações que sejam não apenas funcionais, mas tam
 ║                 CURRENT MISSION CONTROL                 ║
 ╚══════════════════════════════════════════════════════════╝
 
+> USER: Felipe Gabriel Vieira Meira
 > STATUS: ACTIVE
 
-[01] ████████████████████░░  Learn advanced React
-[02] ███████████████░░░░░░  Improve JavaScript
-[03] ██████████████░░░░░░░  Build Node.js APIs
-[04] ████████████░░░░░░░░░  Master Git & GitHub
-[05] ██████████░░░░░░░░░░░  Create better UI/UX
-[06] ████████░░░░░░░░░░░░░  Build full-stack projects
+[01] ████████████████████░░  Evoluir em React
+[02] ███████████████░░░░░░  Aprofundar JavaScript
+[03] ██████████████░░░░░░░  Desenvolver APIs com Node.js
+[04] ████████████░░░░░░░░░  Dominar Git & GitHub
+[05] ██████████░░░░░░░░░░░  Melhorar UI/UX
+[06] ████████░░░░░░░░░░░░░  Criar projetos Full Stack
 
 > NEXT TARGET:
-> Transform ideas into production-ready applications.
+> Transformar ideias em aplicações reais.
 
 > SYSTEM MESSAGE:
-> Keep coding. Keep learning. Keep building.
+> Keep coding.
+> Keep learning.
+> Keep building.
 ```
 
 ---
@@ -152,9 +162,9 @@ Meu objetivo é construir aplicações que sejam não apenas funcionais, mas tam
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=00f7ff&icon_color=8b5cf6&text_color=c9d1d9" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=felipevieira07&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=00f7ff&icon_color=8b5cf6&text_color=c9d1d9" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=00f7ff&text_color=c9d1d9" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipevieira07&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=00f7ff&text_color=c9d1d9" height="180"/>
 
 </div>
 
@@ -162,7 +172,7 @@ Meu objetivo é construir aplicações que sejam não apenas funcionais, mas tam
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=transparent&hide_border=true&ring=00f7ff&fire=8b5cf6&currStreakLabel=00f7ff&sideLabels=c9d1d9&dates=888888" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=felipevieira07&theme=transparent&hide_border=true&ring=00f7ff&fire=8b5cf6&currStreakLabel=00f7ff&sideLabels=c9d1d9&dates=888888" width="70%"/>
 
 </div>
 
@@ -172,7 +182,7 @@ Meu objetivo é construir aplicações que sejam não apenas funcionais, mas tam
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=00000000&color=00f7ff&line=8b5cf6&point=00f7ff&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=felipevieira07&bg_color=00000000&color=00f7ff&line=8b5cf6&point=00f7ff&area=true&hide_border=true" width="95%"/>
 
 </div>
 
@@ -182,7 +192,7 @@ Meu objetivo é construir aplicações que sejam não apenas funcionais, mas tam
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=felipevieira07&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="95%"/>
 
 </div>
 
@@ -192,11 +202,9 @@ Meu objetivo é construir aplicações que sejam não apenas funcionais, mas tam
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" alt="Snake animation" width="95%"/>
+<img src="https://raw.githubusercontent.com/felipevieira07/felipevieira07/output/github-contribution-grid-snake.svg" alt="Snake animation" width="95%"/>
 
 </div>
-
-> **Snake animation setup:** crie um GitHub Action no seu repositório de perfil para gerar `github-contribution-grid-snake.svg` dentro da pasta `output`.
 
 ---
 
@@ -204,20 +212,20 @@ Meu objetivo é construir aplicações que sejam não apenas funcionais, mas tam
 
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/felipevieira07">
 <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00f7ff"/>
 </a>
 
-<a href="https://www.linkedin.com/in/SEU_USUARIO">
-<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00f7ff"/>
+<a href="https://www.instagram.com/lipezht">
+<img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
 </a>
 
-<a href="https://www.instagram.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00f7ff"/>
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
-<a href="mailto:SEU_EMAIL">
-<img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00f7ff"/>
+<a href="mailto:feligavime@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 </div>
@@ -226,9 +234,9 @@ Meu objetivo é construir aplicações que sejam não apenas funcionais, mas tam
 
 <div align="center">
 
-### `> SYSTEM STATUS: ONLINE`
+### `> FELIPE GABRIEL VIEIRA MEIRA // SYSTEM ONLINE`
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=PROFILE%20VIEWS&color=00f7ff&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=felipevieira07&label=PROFILE%20VIEWS&color=00f7ff&style=for-the-badge"/>
 
 <br><br>
 
@@ -237,7 +245,7 @@ Meu objetivo é construir aplicações que sejam não apenas funcionais, mas tam
 │                                              │
 │       CODE • CREATE • LEARN • REPEAT        │
 │                                              │
-│              SYSTEM ONLINE                  │
+│               SYSTEM ONLINE                 │
 │                                              │
 ╰──────────────────────────────────────────────╯
 ```
