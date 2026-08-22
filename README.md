@@ -56,7 +56,7 @@ Também utilizo **Git, GitHub e VS Code** diariamente no meu processo de desenvo
 
 <td width="45%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=felipevieira07&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=00f7ff&icon_color=8b5cf6&text_color=c9d1d9&bg_color=00000000" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=felipevieira07&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" width="100%"/>
 
 </td>
 </tr>
@@ -109,21 +109,21 @@ Também utilizo **Git, GitHub e VS Code** diariamente no meu processo de desenvo
 <div align="center">
 
 <a href="https://github.com/felipevieira07/PROJETO-01">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=felipevieira07&repo=PROJETO-01&theme=transparent&hide_border=true&title_color=00f7ff&icon_color=8b5cf6&text_color=c9d1d9"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=felipevieira07&repo=PROJETO-01&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/felipevieira07/PROJETO-02">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=felipevieira07&repo=PROJETO-02&theme=transparent&hide_border=true&title_color=00f7ff&icon_color=8b5cf6&text_color=c9d1d9"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=felipevieira07&repo=PROJETO-02&theme=tokyonight&hide_border=true"/>
 </a>
 
 <br>
 
 <a href="https://github.com/felipevieira07/PROJETO-03">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=felipevieira07&repo=PROJETO-03&theme=transparent&hide_border=true&title_color=00f7ff&icon_color=8b5cf6&text_color=c9d1d9"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=felipevieira07&repo=PROJETO-03&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/felipevieira07/PROJETO-04">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=felipevieira07&repo=PROJETO-04&theme=transparent&hide_border=true&title_color=00f7ff&icon_color=8b5cf6&text_color=c9d1d9"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=felipevieira07&repo=PROJETO-04&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
@@ -162,9 +162,9 @@ Também utilizo **Git, GitHub e VS Code** diariamente no meu processo de desenvo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=felipevieira07&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=00f7ff&icon_color=8b5cf6&text_color=c9d1d9" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=felipevieira07&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipevieira07&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=00f7ff&text_color=c9d1d9" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipevieira07&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
@@ -172,7 +172,7 @@ Também utilizo **Git, GitHub e VS Code** diariamente no meu processo de desenvo
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=felipevieira07&theme=transparent&hide_border=true&ring=00f7ff&fire=8b5cf6&currStreakLabel=00f7ff&sideLabels=c9d1d9&dates=888888" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=felipevieira07&theme=tokyonight&hide_border=true" width="70%"/>
 
 </div>
 
@@ -182,7 +182,7 @@ Também utilizo **Git, GitHub e VS Code** diariamente no meu processo de desenvo
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=felipevieira07&bg_color=00000000&color=00f7ff&line=8b5cf6&point=00f7ff&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=felipevieira07&bg_color=0d1117&color=00f7ff&line=8b5cf6&point=00f7ff&area=true&hide_border=true" width="95%"/>
 
 </div>
 
@@ -202,7 +202,7 @@ Também utilizo **Git, GitHub e VS Code** diariamente no meu processo de desenvo
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/felipevieira07/felipevieira07/output/github-contribution-grid-snake.svg" alt="Snake animation" width="95%"/>
+<img src="https://raw.githubusercontent.com/felipevieira07/felipevieira07/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="95%"/>
 
 </div>
 
