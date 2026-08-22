@@ -23,7 +23,8 @@
 
 <table>
 <tr>
-<td width="55%">
+
+<td width="60%" valign="top">
 
 ## 👨‍💻 Sobre Mim
 
@@ -54,15 +55,31 @@ Olá! Me chamo **Felipe Gabriel Vieira Meira**, tenho **20 anos** e sou estudant
 
 </td>
 
-<td width="45%" align="center">
+<td width="40%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=felipevieira07&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="100%"/>
+## 🖥️ SYSTEM STATUS
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipevieira07&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000" width="100%"/>
+```text
+╔══════════════════════════════╗
+║       SYSTEM STATUS          ║
+╠══════════════════════════════╣
+║                              ║
+║  USER       : FELIPE         ║
+║  STATUS     : ONLINE         ║
+║  MODE       : DEVELOPMENT    ║
+║  STACK      : FULL STACK     ║
+║                              ║
+║  JAVASCRIPT : ONLINE   ✓     ║
+║  REACT      : ONLINE   ✓     ║
+║  NODE.JS    : ONLINE   ✓     ║
+║  GIT        : ONLINE   ✓     ║
+║  GITHUB     : ONLINE   ✓     ║
+║                              ║
+╚══════════════════════════════╝
+```
 
 </td>
+
 </tr>
 </table>
 
@@ -145,6 +162,12 @@ CURRENT MODE
 <div align="center">
 
 ### `> ACCESSING PROJECT DATABASE...`
+
+```text
+[✓] Repository connection established
+[✓] Projects detected
+[✓] Project database loaded
+```
 
 </div>
 
@@ -299,51 +322,30 @@ Keep building.
 
 ---
 
-# 📊 GITHUB ANALYTICS
+# 📡 GITHUB CONNECTION
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=felipevieira07&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180"/>
+```text
+╔══════════════════════════════════════════════════════════╗
+║                  GITHUB CONNECTION                      ║
+╚══════════════════════════════════════════════════════════╝
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipevieira07&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180"/>
+> CONNECTING TO GITHUB...
 
-</div>
+[✓] USER FOUND
+[✓] REPOSITORIES FOUND
+[✓] PROJECT DATABASE ONLINE
+[✓] DEVELOPMENT ACTIVITY DETECTED
 
-<br>
+> CONNECTION ESTABLISHED
+```
 
-<div align="center">
+<a href="https://github.com/felipevieira07">
 
-<img src="https://streak-stats.demolab.com?user=felipevieira07&theme=tokyonight&hide_border=true" width="70%"/>
+<img src="https://img.shields.io/badge/OPEN%20GITHUB%20PROFILE-00f7ff?style=for-the-badge&logo=github&logoColor=black"/>
 
-</div>
-
----
-
-# 📈 ACTIVITY GRAPH
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=felipevieira07&bg_color=0d1117&color=00f7ff&line=8b5cf6&point=00f7ff&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-# 🏆 GITHUB TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=felipevieira07&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="95%"/>
-
-</div>
-
----
-
-# 🐍 CONTRIBUTION PROTOCOL
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/felipevieira07/felipevieira07/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="95%"/>
+</a>
 
 </div>
 
@@ -354,30 +356,50 @@ Keep building.
 <div align="center">
 
 <a href="https://github.com/felipevieira07">
+
 <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00f7ff"/>
+
 </a>
 
 <a href="https://www.instagram.com/lipezht">
+
 <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+
 </a>
 
 <a href="mailto:feligavime@gmail.com">
+
 <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+
 </a>
 
 </div>
 
 ---
 
-# 💻 GITHUB PROFILE
+# 🔥 CURRENT MODE
 
 <div align="center">
 
-<a href="https://github.com/felipevieira07">
-
-<img src="https://img.shields.io/badge/ACCESS%20GITHUB%20PROFILE-00f7ff?style=for-the-badge&logo=github&logoColor=black"/>
-
-</a>
+```text
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║                 DEVELOPMENT MODE: ON                    ║
+║                                                          ║
+║       CODE                                               ║
+║         ↓                                                ║
+║       CREATE                                             ║
+║         ↓                                                ║
+║       TEST                                               ║
+║         ↓                                                ║
+║       LEARN                                              ║
+║         ↓                                                ║
+║       IMPROVE                                            ║
+║         ↓                                                ║
+║       REPEAT                                             ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
 
 </div>
 
@@ -408,3 +430,4 @@ Keep building.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:8b5cf6,100:050505&height=120&section=footer" width="100%"/>
 
 </div>
+
