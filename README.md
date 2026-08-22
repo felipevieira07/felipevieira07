@@ -367,6 +367,12 @@ Keep building.
 
 </a>
 
+<a href="https://www.linkedin.com/in/felipe-gabriel-vieira-meira-3b4084238/">
+
+<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+
+</a>
+
 <a href="mailto:feligavime@gmail.com">
 
 <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
@@ -430,4 +436,3 @@ Keep building.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:8b5cf6,100:050505&height=120&section=footer" width="100%"/>
 
 </div>
-
